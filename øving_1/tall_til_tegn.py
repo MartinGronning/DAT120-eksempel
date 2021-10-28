@@ -1,3 +1,8 @@
+"""
+
+@author: Martin Grønningen
+
+"""
 tall = input("Skriv inn et tall: ")
 
 tall_int = int(tall)
