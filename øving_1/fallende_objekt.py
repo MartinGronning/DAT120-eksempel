@@ -1,3 +1,8 @@
+"""
+
+@author: Martin Grønningen
+
+"""
 starttid = 0
 startfart = 0
 g = 9.81
